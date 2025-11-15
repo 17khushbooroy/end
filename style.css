@@ -1,5 +1,5 @@
 :root {
-  --accent: #0e6cf0;
+  --accent: #f16c06;
   --muted: #f4ebeb;
   --bg: #f7f9fc;
   --card: #cddbe4;
@@ -22,7 +22,7 @@ p{
 }
 
 header {
-  background: #122f56;
+  background: #1aa33f;
   box-shadow: 0 2px 6px rgba(0,0,0,0.05);
 }
 .topbar {
@@ -129,6 +129,7 @@ footer {
   color: var(--muted);
   margin-top: 30px;
 }
+
 
 
 
